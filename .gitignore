@@ -1,3 +1,4 @@
 data/
 .ipynb_checkpoints/
-checkpoints/
+checkpoints/*
+!checkpoints/resnet18_ssl_final.pth
